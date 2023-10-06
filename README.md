@@ -8,7 +8,6 @@ This Python script captures video streams from two RTMP sources (cameras) and re
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
